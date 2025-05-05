@@ -1,41 +1,47 @@
-## 👋 Hola, soy Jose Ulacio
+## 👋 Hi!!, I'm Jose Ulacio
 
 🚀 **Passionate about mobile development with Kotlin** | **Constant learning**.  
+
+Mobile Developer, passionate about Kotlin and Android development, looking for professional opportunities that allow me to grow and add value with my enthusiasm for technology and constant growth in this sector. I have dedicated time to strengthening my skills through projects where I apply:
+- 📱Kotlin and Android SDK to create native apps.
+- 🎨Jetpack Compose and XML for dynamic interfaces.
+- 📁Architectures such as MVVM.
+- 💾Consuming REST APIs with Ktor and data management with Room.
 
 ---
 
 ## 🛠 Technologies and Skills  
 
-![Kotlin](https://img.shields.io/badge/Kotlin-Android%20Development-7F52FF?logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-4285F4?logo=jetpack-compose)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=github,kotlin,figma,androidstudio,ktor" />
   </a>
 </p>
 
-- **Lenguajes**: Kotlin, Java (básico)  
+- **Lenguajes**: Kotlin, Java (Basic)  
 - **Android**: Jetpack Components (ViewModel, Room), Retrofit, Ktor, Corrutinas  
 - **Herramientas**: Android Studio, Git/GitHub, Figma.  
-- **Metodologías**: Clean Architecture (en aprendizaje), MVVM.   
+- **Metodologías**: Clean Architecture (in learning), MVVM.   
 
 ---
 
-## 🌱 Actualmente Aprendiendo  
+## 🌱 Currently Learning
 
-- Firebase 
-- Pruebas unitarias con JUnit.  
-- Patrones de diseño avanzados.  
+- Firebase. 
+- Unit testing with JUnit.  
+- Advanced design patterns. 
 
 ---
 
-## 📫 Contacto  
+## 📫 Contact   
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/tu-perfil)  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail)](mailto:tu-email@gmail.com)  
+<a href="https://linkedin.com/in/joseulaciogarcia" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" style="vertical-align:middle;"></a>
+<a href="https://discord.com/users/josebarca10" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png" alt="Discord" width="40" style="vertical-align:middle;"></a>
+
+---
+
+> *"You are in danger of living a life so comfortable and soft, that you will die without ever realizing your true potential."*  
+> **— David Goggins** 
 
 
 <!--
