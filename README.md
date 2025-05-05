@@ -11,6 +11,12 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-4285F4?logo=jetpack-compose)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 - **Lenguajes**: Kotlin, Java (básico)  
 - **Android**: Jetpack Components (ViewModel, Room), Retrofit, Ktor, Corrutinas  
 - **Herramientas**: Android Studio, Git/GitHub, Figma.  
